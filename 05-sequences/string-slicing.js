@@ -19,3 +19,8 @@ console.log(message.slice(4,6))
 console.log(message)
 message = message.toLowerCase()
 console.log(message)
+
+message = message.toUpperCase()
+console.log(message)
+console.log(message.slice(7))
+console.log(message.slice(-3))
