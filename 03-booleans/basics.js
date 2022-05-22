@@ -12,3 +12,5 @@ console.log(50 === parseInt("50"))
 
 let isLockdown = false ;
 let isVacinnated = true;
+
+
